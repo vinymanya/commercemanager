@@ -1,4 +1,6 @@
-# CommerceManager
+# Commerce Manager
+
+Commerce Manager is a full MEAN Stack products management application with a complete functional REST API.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 

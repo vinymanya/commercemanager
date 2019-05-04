@@ -1,0 +1,8 @@
+/* .ng-valid[required],
+.ng-valid.required {
+  color: #42a948;
+} */
+
+.invalid {
+  color: #a94442;
+}
